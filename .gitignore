@@ -17,3 +17,7 @@ slprj/
 
 # Session info
 octave-workspace
+
+found_signs*
+
+*.rar
